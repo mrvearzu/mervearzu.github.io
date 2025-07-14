@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <!-- TEKNOFEST Sosyal Doğrulama -->
-  <link rel="me" href="https://sosyal.teknofest.org/profil/mervearzu">
+  <link rel="me" href="https://sosyal.teknofest.org/profil/mrvearzu">
 
   <style>
     body {
@@ -22,10 +22,10 @@
 </head>
 <body>
   <h1>Merve Arzu</h1>
-  <p>Eskişehir Osmangazi Üniversitesi İktisat mezunuyum. Gönüllülük ve sosyal sorumluluk alanlarında aktifim.</p>
+  <p>rciyes Üniversitesi Sosyoloji mezunuyum . Gönüllülük ve sosyal sorumluluk alanlarında aktifim.</p>
 
   <p>
-    👉 <a href="https://sosyal.teknofest.org/profil/mervearzu" target="_blank">TEKNOFEST Sosyal Profilim</a>
+    👉 <a href="https://sosyal.teknofest.org/profil/mrvearzu" target="_blank">TEKNOFEST Sosyal Profilim</a>
   </p>
 </body>
 </html>
