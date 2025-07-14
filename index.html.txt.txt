@@ -1,2 +1,0 @@
-﻿<a rel="me" href="https://sosyal.teknofest.app/@mrvearzu">Test</a>
-<meta name="fediverse:creator" content="@mrvearzu@sosyal.teknofest.app">
