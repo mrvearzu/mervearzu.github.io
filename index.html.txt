@@ -1,0 +1,31 @@
+﻿<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Merve Arzu</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- TEKNOFEST Sosyal Doğrulama -->
+  <link rel="me" href="https://sosyal.teknofest.org/profil/mervearzu">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f3f2ef;
+      padding: 2rem;
+      color: #333;
+      max-width: 600px;
+      margin: auto;
+    }
+    h1 { color: #004aad; }
+  </style>
+</head>
+<body>
+  <h1>Merve Arzu</h1>
+  <p>Eskişehir Osmangazi Üniversitesi İktisat mezunuyum. Gönüllülük ve sosyal sorumluluk alanlarında aktifim.</p>
+
+  <p>
+    👉 <a href="https://sosyal.teknofest.org/profil/mervearzu" target="_blank">TEKNOFEST Sosyal Profilim</a>
+  </p>
+</body>
+</html>
